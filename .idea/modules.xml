@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CarpeDiem/CarpeDiem.iml" filepath="$PROJECT_DIR$/CarpeDiem/CarpeDiem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CarpeDiemProject.iml" filepath="$PROJECT_DIR$/CarpeDiemProject.iml" />
+    </modules>
+  </component>
+</project>
+
